@@ -1,0 +1,2 @@
+connection string:
+"postgres://postgres:Walnut-Supply6-Unnamed@localhost:5432/gator"
